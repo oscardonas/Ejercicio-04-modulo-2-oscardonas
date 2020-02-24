@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="TamanoNombre">48sp</dimen>
+    <dimen name="TamanoProfesion">24sp</dimen>
+    <dimen name="MargenIzquierdo">16sp</dimen>
+    <dimen name="PaddingSuperior">16sp</dimen>
+</resources>
